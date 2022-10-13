@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "*.html.erb": "erb"
+    },
+    "emmet.showSuggestionsAsSnippets": true,
+    "emmet.includeLanguages": {
+        "ruby": "html",
+        "erb": "html"
+    },
+    "auto-close-tag.activationOnLanguage": [
+        "erb"
+    ]
+}
